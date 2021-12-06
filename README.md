@@ -1,1 +1,1 @@
-# Mineral-Detection
+# Mineral-Detection using CNN
